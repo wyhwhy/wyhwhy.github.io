@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * City University of Hong Kong, 2022 - now
-  * Ph.D candidate in Data Science, advisor: [Xiangyu Zhao] (https://zhaoxyai.github.io/) 
+  * Ph.D candidate in Data Science, advisor: [Xiangyu Zhao](https://zhaoxyai.github.io/) 
 * University of Alberta, 2017
   * International Undergraduate Summer Enrichment Program in Mathematics
 * Xi'an Jiaotong University, 2016 - 2020
@@ -23,12 +23,12 @@ Work experience
 ======
 * 2021.08 - 2021.10 Research Assistant
   * Worked on Causal Inference
-  * Advisor: [Ruocheng Guo] (https://rguo12.github.io/)
+  * Advisor: [Ruocheng Guo](https://rguo12.github.io/)
   * City University of Hong Kong
 
 * 2020.07 - 2021.05 Research Assistant
   * Worked on Evolutionary Algorithm and Reinforcement Learning
-  * Advisor: [Jianyong Sun] (http://gr.xjtu.edu.cn/web/jy.sun)
+  * Advisor: [Jianyong Sun](http://gr.xjtu.edu.cn/web/jy.sun)
   * Xi’an Jiaotong University
 
 * 2019.07 - 2019.08 Intern
