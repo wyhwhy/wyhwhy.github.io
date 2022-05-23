@@ -39,11 +39,13 @@ Work experience
   * Worked on text classification algorithm
   * Xi’an Webber Software
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019.11 - 2020.11 Amortized Variational Deep Q Network (AVDQN)
+* 2020.02 - 2021.06 Improve hyper parameters in Differential Evolution Algorithm by RL methods
+* 2019.01 - 2019.01 Model on the Dragons in Game of Thrones in MCM/ICM
+* 2018.06 - 2018.08 Study on the Dynamic Model of Hepatitis B Virus (HBV) with Antiviral Therapy
+* 2017.07 - 2017.08 Study on the Theory of Drone Formation
   
 News
 ======
