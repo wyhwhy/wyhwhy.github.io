@@ -1,0 +1,11 @@
+---
+title: "Variational Reinforcement Learning for Hyper-Parameter Tuning of Adaptive Evolutionary Algorithm"
+collection: publications
+permalink: /publication/2021-eadqn
+excerpt: ''
+date: 2021-05-01
+venue: ''
+
+---
+
+Submitted to TETCI 2022.
