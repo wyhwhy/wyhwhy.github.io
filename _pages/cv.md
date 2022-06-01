@@ -13,7 +13,7 @@ Education
 ======
 * City University of Hong Kong, 2022 - now
   * Ph.D candidate in Data Science, advisor: [Xiangyu Zhao](https://zhaoxyai.github.io/) 
-* University of Alberta, 2017
+* University of Alberta, 2017 summer
   * International Undergraduate Summer Enrichment Program in Mathematics
 * Xi'an Jiaotong University, 2016 - 2020
   * Mathematics Pioneering Program
