@@ -49,6 +49,8 @@ Projects
   
 News
 ======
+  2022.05 Attended [BAAI 2022](https://2022.baai.ac.cn/)
+
   2022.05 Attended the YSSNLP 2022
   
   2022.05 Attended the AIS 2022
