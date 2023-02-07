@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuhao Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at City University of Hong Kong"
+  bio              : "PhD student at City University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=N2H5y_MAAAAJ&hl=en"
-  email            : "XJTUwyh2020 'at' outlook dot com"
+  email            : "yhwang25-c 'at' my dot cityu dot edu dot hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/0000-0003-0300-8203"
+  orcid            : "https://orcid.org/0000-0002-6051-8659"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
