@@ -20,7 +20,7 @@ News
 ======
 01/2023: Our work 'Exploration and Regularization of the Latent Action Space in Recommendation' with Kuaishou is accepted to **WWW 2023**.
 
-02/2023: Our new survey [Multi-Task Deep Recommender Systems: A Survey](http://arxiv.org/abs/2302.03525) is online
+02/2023: Our new survey [Multi-Task Deep Recommender Systems: A Survey](http://arxiv.org/abs/2302.03525) is online.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
 
