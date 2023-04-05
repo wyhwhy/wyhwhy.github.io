@@ -18,6 +18,10 @@ My current research mainly focuses on **Recommender System**, especially multi-s
 
 News
 ======
+04/2023: Our work 'PLATE: A Prompt-Enhanced Paradigm for Multi-Target Cross-Domain Recommendations' is accepted to **SIGIR 2023** full paper track.
+
+04/2023: Our work 'AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework' is accepted to **SIGIR 2023** short paper track.
+
 02/2023: Our new survey [Multi-Task Deep Recommender Systems: A Survey](http://arxiv.org/abs/2302.03525) is online.
 
 01/2023: Our work [Exploration and Regularization of the Latent Action Space in Recommendation](https://arxiv.org/abs/2302.03431) with Kuaishou is accepted to **WWW 2023**.
