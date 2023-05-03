@@ -16,6 +16,10 @@ Research
 I have a broad interest in data science and artificial intelligence. 
 My current research mainly focuses on **Recommender System**, especially multi-scenario modeling. 
 
+Award
+======
+05/2023: I am offered a SIGIR Student Travel Grant.
+
 News
 ======
 04/2023: I work as a reviewer of **RecSys 2023**.
