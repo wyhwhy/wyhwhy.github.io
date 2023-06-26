@@ -24,11 +24,15 @@ Award
 
 News
 ======
+06/2023: I work as a reviewer of **NIPS 2023**.
+
 04/2023: I work as a reviewer of **RecSys 2023**.
 
 04/2023: Our work 'PLATE: A Prompt-Enhanced Paradigm for Multi-Target Cross-Domain Recommendations' is accepted to **SIGIR 2023** full paper track.
 
 04/2023: Our work 'AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework' is accepted to **SIGIR 2023** short paper track.
+
+03/2023: I work as a reviewer of **KDD 2023**.
 
 02/2023: Our new survey [Multi-Task Deep Recommender Systems: A Survey](http://arxiv.org/abs/2302.03525) is online.
 
