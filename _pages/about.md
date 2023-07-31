@@ -29,9 +29,9 @@ News
 
 04/2023: I work as a reviewer of **RecSys 2023**.
 
-04/2023: Our work 'PLATE: A Prompt-Enhanced Paradigm for Multi-Target Cross-Domain Recommendations' is accepted to **SIGIR 2023** full paper track.
+04/2023: Our work [PLATE: A Prompt-Enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/10.1145/3539618.3591750) is accepted to **SIGIR 2023** full paper track.
 
-04/2023: Our work 'AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework' is accepted to **SIGIR 2023** short paper track.
+04/2023: Our work [AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/abs/10.1145/3539618.3591953) is accepted to **SIGIR 2023** short paper track.
 
 03/2023: I work as a reviewer of **KDD 2023**.
 
