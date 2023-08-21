@@ -25,7 +25,7 @@ Award
 News
 ======
 
-08/2023: We hold a tutorial: $\underline{\text{Joint Modeling in Recommendations: Foundations and Frontiers}}$ in **IJCAI 2023** in Macau.
+08/2023: We hold a tutorial: [Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf) in **IJCAI 2023** in Macau.
 
 06/2023: I work as a reviewer of **NIPS 2023**.
 
