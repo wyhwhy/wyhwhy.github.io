@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-autodpq
 excerpt: ''
 date: 2023-04-01
-venue: SIGIR
+venue: 'SIGIR'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3539618.3591953'
 ---
 
