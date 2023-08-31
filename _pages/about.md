@@ -18,6 +18,8 @@ My current research mainly focuses on **Recommender System**, especially multi-s
 
 Award
 ======
+08/2023: I am offered the Research Tuition Scholarship from CityU.
+
 06/2023: I am offered a IJCAI 2023 Travel Grant.
 
 05/2023: I am offered a SIGIR 2023 Student Travel Grant.
