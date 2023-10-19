@@ -27,6 +27,8 @@ Award
 News
 ======
 
+10/2023: Our work 'Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation' is accepted to **WSDM 2024**.
+
 09/2023: I work as a PC member of [MLoG](https://mlog-workshop.github.io/) in **ICDM 2023**.
 
 08/2023: We hold a tutorial: [Joint Modeling in Recommendations: Foundations and Frontiers](https://zhaoxyai.github.io/paper/jointmodeling.pdf) in **IJCAI 2023** in Macau.
