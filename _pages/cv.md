@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+
+* 2024.01 - Present Intern
+  * Tencent
+
 * 2021.08 - 2021.10 Research Assistant
   * Worked on Causal Inference
   * Advisor: [Ruocheng Guo](https://rguo12.github.io/)
