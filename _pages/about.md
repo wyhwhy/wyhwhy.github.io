@@ -50,6 +50,6 @@ News
 01/2023: Our work [Exploration and Regularization of the Latent Action Space in Recommendation](https://arxiv.org/abs/2302.03431) with Kuaishou is accepted to **WWW 2023**.
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_ozYIhDC2wgY6J1weFrQf0lgT36lIYo3fRfwjIqChug&cl=ffffff&w=a"></script>
 
 </script>
