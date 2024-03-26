@@ -51,5 +51,3 @@ News
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_ozYIhDC2wgY6J1weFrQf0lgT36lIYo3fRfwjIqChug&cl=ffffff&w=a"></script>
-
-</script>
