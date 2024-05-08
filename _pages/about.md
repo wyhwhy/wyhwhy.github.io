@@ -27,6 +27,8 @@ Award
 News
 ======
 
+04/2024: I work as a reviewer of **ACM MM 2024**.
+
 04/2024: I work as a reviewer of **TKDD** (Transactions on Knowledge Discovery from Data).
 
 02/2024: I work as a reviewer of **KDD 2024**.
