@@ -35,7 +35,7 @@ News
 
 02/2024: I work as a reviewer of **KDD 2024**.
 
-10/2023: Our work [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) is accepted to **WSDM 2024**.
+10/2023: Our work [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://github.com/wyhwhy/WSDM24_Diff-MSR/blob/main/WSDM24_Diff_MSR.pdf) (**paper download here**) is accepted to **WSDM 2024**.
 
 09/2023: I work as a PC member of [MLoG](https://mlog-workshop.github.io/) in **ICDM 2023**.
 
