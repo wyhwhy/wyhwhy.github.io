@@ -27,7 +27,13 @@ Award
 News
 ======
 
-06/2024: Our new work [LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation](http://arxiv.org/abs/2406.12529) is online.
+07/2024: Our work 'Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective' is accepted to **CIKM 2024** PhD Symposium track.
+
+07/2024: Our new work [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/pdf/2309.02061) is accepted to **CIKM 2024**.
+
+07/2024: Our new work [LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation](http://arxiv.org/abs/2406.12529) is accepted to **CIKM 2024**.
+
+04/2024: I work as a reviewer of **TOIS**.
 
 04/2024: I work as a reviewer of **ACM MM 2024**.
 
