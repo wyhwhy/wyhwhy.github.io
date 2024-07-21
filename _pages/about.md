@@ -33,7 +33,7 @@ News
 
 07/2024: Our new work [LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation](http://arxiv.org/abs/2406.12529) is accepted to **CIKM 2024**.
 
-04/2024: I work as a reviewer of **TOIS**.
+07/2024: I work as a reviewer of **TOIS**.
 
 04/2024: I work as a reviewer of **ACM MM 2024**.
 
