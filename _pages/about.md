@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yuhao Wang. I am a second-year PhD candidate at [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong, China. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and work with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
+Hi, my name is Yuhao Wang. I am a third-year PhD candidate at [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong, China. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and work with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
 
 Research
 ======
