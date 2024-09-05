@@ -18,6 +18,8 @@ My current research mainly focuses on **Recommender System**, especially multi-s
 
 Award
 ======
+09/2024: I am offered the Outstanding Academic Performance Award (OAPA) from CityU.
+
 08/2024: I am offered an ACM SIGIR Student Travel Awards in CIKM 2024.
 
 08/2023: I am offered the Research Tuition Scholarship from CityU.
