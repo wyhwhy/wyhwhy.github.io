@@ -5,7 +5,7 @@ permalink: /publication/2024-03-Diff-MSR
 excerpt: ''
 date: 2024-03-04
 venue: 'WSDM'
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3616855.3635807'
+paperurl: 'https://github.com/Applied-Machine-Learning-Lab/Diff-MSR'
 ---
 
 Accepted to WSDM 2024.
