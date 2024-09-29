@@ -31,6 +31,8 @@ Award
 News
 ======
 
+09/2024: I work as a reviewer of **KDD 2025**.
+
 07/2024: Our work 'Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective' is accepted to **CIKM 2024** PhD Symposium track.
 
 07/2024: Our work [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/pdf/2309.02061) is accepted to **CIKM 2024**.
