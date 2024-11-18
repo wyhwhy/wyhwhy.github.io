@@ -14,7 +14,7 @@ Research
 ======
 
 I have a broad interest in data science and artificial intelligence. 
-My current research mainly focuses on **Recommender System**, especially multi-scenario modeling. 
+My current research mainly focuses on **Recommender System**, especially Large Language Model for recommendation, multi-modal recommendation, and multi-scenario modeling. 
 
 Award
 ======
@@ -31,9 +31,13 @@ Award
 News
 ======
 
+10/2024: I attend CIKM 2024 on-site.
+
+09/2024: Our work '[Multi-Level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801)' is accepted to **TKDE 2024**.
+
 09/2024: I work as a reviewer of **KDD 2025**.
 
-07/2024: Our work 'Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective' is accepted to **CIKM 2024** PhD Symposium track.
+07/2024: Our work '[Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective](https://dl.acm.org/doi/10.1145/3627673.3680264)' is accepted to **CIKM 2024** PhD Symposium track.
 
 07/2024: Our work [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://dl.acm.org/doi/10.1145/3627673.3679615) is accepted to **CIKM 2024**.
 
