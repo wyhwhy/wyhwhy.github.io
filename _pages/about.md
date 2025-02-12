@@ -31,6 +31,8 @@ Award
 News
 ======
 
+12/2024: Our paper [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107) is online.
+
 10/2024: I attend CIKM 2024 on-site.
 
 09/2024: Our work '[Multi-Level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801)' is accepted to **TKDE 2024**.
