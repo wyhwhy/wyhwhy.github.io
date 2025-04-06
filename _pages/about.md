@@ -31,6 +31,8 @@ Award
 News
 ======
 
+04/2025: Our paper [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107) is accepted to **SIGIR 2025** full paper track.
+
 12/2024: Our paper [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107) is online.
 
 10/2024: I attend CIKM 2024 on-site.
