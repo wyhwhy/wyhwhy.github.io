@@ -14,7 +14,8 @@ Research
 ======
 
 I have a broad interest in data science and artificial intelligence. 
-My current research mainly focuses on **Recommender System**, especially Large Language Model for recommendation, multi-modal recommendation, and multi-scenario modeling. 
+My current research mainly focuses on Large Reasoning Models, diffusion LLM, and reward model.
+Previously I worked on Recommender System, especially Large Language Model for recommendation, multi-modal recommendation, and multi-scenario modeling. 
 
 Award
 ======
