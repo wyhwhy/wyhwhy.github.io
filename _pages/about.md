@@ -32,11 +32,17 @@ Award
 News
 ======
 
+08/2025: Our paper 'Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs' is accepted to **CIKM 2025** as Full Research Paper.
+
+08/2025: Our paper 'Empowering Denoising Sequential Recommendation with Large Language Model Embeddings' is accepted to **CIKM 2025** as Full Research Paper.
+
+07/2025: I attend SIGIR 2025 on-site in Padova, Italy.
+
 04/2025: Our paper [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107) is accepted to **SIGIR 2025** full paper track.
 
 12/2024: Our paper [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107) is online.
 
-10/2024: I attend CIKM 2024 on-site.
+10/2024: I attend CIKM 2024 on-site in Boise, Idaho, USA.
 
 09/2024: Our work '[Multi-Level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801)' is accepted to **TKDE 2024**.
 
