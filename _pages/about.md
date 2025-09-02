@@ -19,6 +19,9 @@ Previously I worked on Recommender System, especially Large Language Model for r
 
 Award
 ======
+
+08/2025: I am offered the Outstanding Academic Performance Award (OAPA) from CityU.
+
 09/2024: I am offered the Outstanding Academic Performance Award (OAPA) from CityU.
 
 08/2024: I am offered an ACM SIGIR Student Travel Awards in CIKM 2024.
