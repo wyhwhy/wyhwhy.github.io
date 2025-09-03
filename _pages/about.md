@@ -35,7 +35,7 @@ Award
 News
 ======
 
-08/2025: Our paper 'Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs' is accepted to **CIKM 2025** as Full Research Paper.
+08/2025: Our paper [Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs](http://arxiv.org/abs/2509.02017) is accepted to **CIKM 2025** as Full Research Paper.
 
 08/2025: Our paper 'Empowering Denoising Sequential Recommendation with Large Language Model Embeddings' is accepted to **CIKM 2025** as Full Research Paper.
 
