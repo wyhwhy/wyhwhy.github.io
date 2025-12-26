@@ -35,6 +35,8 @@ Award
 News
 ======
 
+11/2025: Our paper [Efficient Reasoning via Reward Model](https://arxiv.org/pdf/2511.09158) is online.
+
 08/2025: Our paper [Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs](http://arxiv.org/abs/2509.02017) is accepted to **CIKM 2025** as Full Research Paper.
 
 08/2025: Our paper 'Empowering Denoising Sequential Recommendation with Large Language Model Embeddings' is accepted to **CIKM 2025** as Full Research Paper.
