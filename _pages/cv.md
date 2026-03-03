@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* City University of Hong Kong, 2022 - now
+* City University of Hong Kong, 2022 - 2026
   * Ph.D candidate in Data Science, advisor: [Xiangyu Zhao](https://zhaoxyai.github.io/) 
 * University of Alberta, 2017 summer
   * International Undergraduate Summer Enrichment Program in Mathematics
