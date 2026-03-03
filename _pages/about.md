@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yuhao Wang. I am a third-year PhD candidate at [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong, China. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and work with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
+Hi, my name is Yuhao Wang. I am a final-year PhD candidate at [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong, China. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and work with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
 
 Research
 ======
 
 I have a broad interest in data science and artificial intelligence. 
 My current research mainly focuses on Large Reasoning Models, diffusion LLM, and reward model.
-Previously I worked on Recommender System, especially Large Language Model for recommendation, multi-modal recommendation, and multi-scenario modeling. 
+I also work on Recommender System, especially Generative Recommendation, Large Language Model for recommendation, multi-modal recommendation, and multi-scenario modeling. 
 
 Award
 ======
@@ -34,6 +34,8 @@ Award
 
 News
 ======
+
+03/2025: Our paper [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/pdf/2603.01152) is online.
 
 11/2025: Our paper [Efficient Reasoning via Reward Model](https://arxiv.org/pdf/2511.09158) is online.
 
