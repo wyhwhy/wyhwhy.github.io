@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong, China"
+locale                   : "Hangzhou, China"
 title                    : "Yuhao Wang / Home"
 title_separator          : "-"
 name                     : &name "Yuhao Wang"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhao Wang"
+  name             : "Dr. Yuhao Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at City University of Hong Kong"
-  location         : "Hong Kong, China"
+  bio              : "Researcher"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=caGafLQAAAAJ"
