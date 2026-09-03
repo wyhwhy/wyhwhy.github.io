@@ -74,7 +74,9 @@ News
 
 01/2023: Our work [Exploration and Regularization of the Latent Action Space in Recommendation](https://arxiv.org/abs/2302.03431) with Kuaishou is accepted to **WWW 2023**.
 
-<a target="_blank" href="https://livetrafficfeed.com/live/wyhwhy.github.io"><img src="//livetrafficfeed.com/static/pulse-maps/feed.png?d=wyhwhy.github.io&c=c05db299694b766dc88fd339cdb48596&w=370&sea=99b2cf&land=f2efe8&mtc=000000&hl=ff0000&hm=ffff00&hh=ffffff&dn=ffffff"></a>
+<a target="_blank" href="https://livetrafficfeed.com/live/wyhwhy.github.io">
+ <img src="//livetrafficfeed.com/static/pulse-maps/feed.png?d=wyhwhy.github.io&c=c05db299694b766dc88fd339cdb48596&w=370&sea=99b2cf&land=f2efe8&mtc=000000&hl=ff0000&hm=ffff00&hh=ffffff&dn=ffffff">
+</a>
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_ozYIhDC2wgY6J1weFrQf0lgT36lIYo3fRfwjIqChug&cl=ffffff&w=a"></script>
