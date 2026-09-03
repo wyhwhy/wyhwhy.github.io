@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yuhao Wang. I obtained my PhD degree from [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong, China. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and worked with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
+Hi, my name is Yuhao Wang. I obtained my PhD degree from [School of Data Science](https://www.sdsc.cityu.edu.hk/) at City University of Hong Kong on June 2026. It's my honor to be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and worked with fellows in [Applied Machine Learning Lab](https://aml-cityu.github.io/).
 
 Research
 ======
